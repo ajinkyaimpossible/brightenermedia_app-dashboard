@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>E-Commerce With Laravel and React</h1>
-        <button>Old Button</button>
+        <button>Old Button Test</button>
         <Button>New button</Button>
         
       </header>
